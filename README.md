@@ -44,6 +44,12 @@
         .content {
             margin-top: 20px;
         }
+        .content img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+            margin: 20px 0;
+        }
         footer {
             text-align: center;
             background: #5dade2;
@@ -73,6 +79,7 @@
     <section id="klimawandel" class="content">
         <h2>Einfluss des Klimawandels</h2>
         <p>Der Klimawandel begünstigt die Ausbreitung des Borkenkäfers durch milde Winter und trockene Sommer. Die gestressten Bäume sind weniger widerstandsfähig gegenüber den Angriffen der Käfer, was zu großflächigen Waldschäden führt.</p>
+        <img src="borkenkaefer.jpg" alt="Borkenkäfer auf Baumrinde" title="Ein Borkenkäfer auf Baumrinde">
     </section>
 
     <section id="maßnahmen" class="content">
